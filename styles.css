@@ -273,6 +273,7 @@ code { background: rgba(59, 130, 246, .12); color: #93c5fd; padding: .1em .4em; 
 }
 .timeline__card:hover { border-color: rgba(59, 130, 246, .45); transform: translateX(4px); }
 .timeline__card h3 { font-size: 1.3rem; }
+.timeline__note { margin: -.4rem 0 1rem; font-family: var(--mono); font-size: .82rem; color: var(--accent); }
 .timeline__card ul { margin: 0 0 1.25rem; padding-left: 1.1rem; color: var(--muted); }
 .timeline__card li { margin-bottom: .35rem; }
 .timeline__card li::marker { color: var(--primary); }
